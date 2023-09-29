@@ -69,4 +69,9 @@
  }
 ```
 
+![1](https://github.com/Nick09917/VisualC-_lab1/assets/115313324/5f069e5d-66f4-4163-a925-3dc4cad41a1a)
+
+![2](https://github.com/Nick09917/VisualC-_lab1/assets/115313324/1d7afd1b-9d32-4b64-b358-e85d4013759d)
+
+
 
